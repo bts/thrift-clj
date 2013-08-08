@@ -12,7 +12,7 @@ thrift-clj is available via [Clojars](http://clojars.org/thrift-clj).
 __Leiningen__
 
 ```clojure
-[thrift-clj "0.1.1"]
+[thrift-clj "0.1.2"]
 ```
 
 __Note__: Tested with the Thrift 0.9.0 compiler. Since this depends massively on the generated code, make sure to use
@@ -144,6 +144,6 @@ Make sure that the Apache Thrift compiler is installed.
 
 ## License
 
-Copyright &copy; 2013 Yannick Scherer
+Copyright &copy; 2013 Yannick Scherer and Contributors
 
 Distributed under the Eclipse Public License, the same as Clojure.
